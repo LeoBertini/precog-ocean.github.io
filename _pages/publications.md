@@ -14,7 +14,7 @@ title: Publications
 Bertini, L., et al., (Submitted) **precog-esgf-intake: Automated discovery, validation, and optimised download management of Earth system model data from Earth System Grid Federation nodes**  Submitted to Journal of Open Source Software.<br>
 [:point_right: Draft Manuscript](https://github.com/precog-ocean/precog-esgf-intake/blob/main/paper/paper.pdf)
 
-Cael, B.B., et al., (Accepted) **Glacial CO<sub>2</sub> drawdown by plankton metabolic balance**. Nature Communications. 
+Cael, B.B., et al., (2026) **Glacial CO<sub>2</sub> drawdown by plankton metabolic balance**. Nature Communications. [https://doi.org/10.1038/s41467-026-78422-y](https://doi.org/10.1038/s41467-026-78422-y)
 
 Wilson, J.D., Planchat, A., (2026) **Oceanic carbon cycle – The biological carbon pump**. Encyclopedia of Climate System Science. Elsevier. [https://doi.org/10.1016/b978-0-443-15748-6.00106-4](https://doi.org/10.1016/b978-0-443-15748-6.00106-4)
 
